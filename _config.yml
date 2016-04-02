@@ -1,14 +1,3 @@
-color:
-  saturation: 0.6481673
-  brandStrength: 0.004609307
-  rhythmicContrast: 0.4513426
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  lightness: 0.213793
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.3365637
-typography_spectrum: 0.3020672
+typography_spectrum: 0.688172
+color:
+  saturation: 0.3709677
+  brandStrength: 0.5376344
+  lightness: 0.213793
+  brandColors:
+    - '#FFFFFF'
+    - '#151515'
+    - '#125688'
+    - '#A5A7AA'
+    - '#39BDCF'
+  rhythmicContrast: 0
+layout_spectrum: 0.06989247
 name: catalysts
