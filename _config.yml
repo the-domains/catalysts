@@ -1,8 +1,5 @@
-layout_spectrum: 0.3365637
-typography_spectrum: 0.3020672
 color:
   saturation: 0.6481673
-  lightness: 0.213793
   brandStrength: 0.004609307
   rhythmicContrast: 0.4513426
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.213793
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3365637
+typography_spectrum: 0.3020672
 name: catalysts
