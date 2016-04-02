@@ -1,3 +1,7 @@
+name: catalysts
+favicon: null
+layout_spectrum: 0.06989247
+typography_spectrum: 0.688172
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.688172
+title: 'Catalysts & Co.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3709677
-  brandStrength: 0.5376344
-  lightness: 0.213793
   brandColors:
     - '#FFFFFF'
     - '#151515'
     - '#125688'
     - '#A5A7AA'
     - '#39BDCF'
+  brandStrength: 0.5376344
+  lightness: 0.213793
+  saturation: 0.3709677
   rhythmicContrast: 0
-layout_spectrum: 0.06989247
-name: catalysts
+purpose: []
