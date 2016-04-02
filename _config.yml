@@ -1,6 +1,6 @@
 name: catalysts
 favicon: null
-layout_spectrum: 0.06989247
+layout_spectrum: 0
 typography_spectrum: 0.688172
 collections:
   - index:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#151515'
-    - '#125688'
-    - '#A5A7AA'
-    - '#39BDCF'
-  brandStrength: 0.5376344
+    - '#e3e0d1'
+    - '#393937'
+    - '#96918b'
+    - '#b4b3af'
+    - '#161817'
+  brandStrength: 0.3125
   lightness: 0.213793
   saturation: 0.3709677
   rhythmicContrast: 0
